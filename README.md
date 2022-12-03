@@ -173,5 +173,5 @@ Response
 ]
 ```
 
-# Refrensi
+# Referensi
 - Data wilayah Indonesia (wilayah_2020.sql) [https://github.com/cahyadsn/wilayah](https://github.com/cahyadsn/wilayah)
