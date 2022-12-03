@@ -3,7 +3,7 @@
  API data wilayah Indonesia.
 
 ## Demo
-Link demo: [https://data-wilayah-indonesia.herokuapp.com](https://data-wilayah-indonesia.herokuapp.com)
+Link demo: [https://data-wilayah-indonesia.up.railway.app](https://data-wilayah-indonesia.up.railway.app)
 
 # Dokumentasi API
 
@@ -13,7 +13,7 @@ Link demo: [https://data-wilayah-indonesia.herokuapp.com](https://data-wilayah-i
 
 Request
 ```
-https://data-wilayah-indonesia.herokuapp.com/api/provinces
+https://data-wilayah-indonesia.up.railway.app/api/provinces
 ```
 
 Response
@@ -37,12 +37,12 @@ Response
 - Return `json`
 
 ```
-https://data-wilayah-indonesia.herokuapp.com/api/cities/{provinceId}
+https://data-wilayah-indonesia.up.railway.app/api/cities/{provinceId}
 ```
 
 Request
 ```
-https://data-wilayah-indonesia.herokuapp.com/api/cities/11
+https://data-wilayah-indonesia.up.railway.app/api/cities/11
 ```
 
 Response
@@ -78,12 +78,12 @@ Response
 - Return `json`
 
 ```
-https://data-wilayah-indonesia.herokuapp.com/api/districts/{cityId}
+https://data-wilayah-indonesia.up.railway.app/api/districts/{cityId}
 ```
 
 Request
 ```
-https://data-wilayah-indonesia.herokuapp.com/api/districts/1101
+https://data-wilayah-indonesia.up.railway.app/api/districts/1101
 ```
 
 Response
@@ -124,12 +124,12 @@ Response
 - Return `json`
 
 ```
-https://data-wilayah-indonesia.herokuapp.com/api/villages/{districtId}
+https://data-wilayah-indonesia.up.railway.app/api/villages/{districtId}
 ```
 
 Request
 ```
-https://data-wilayah-indonesia.herokuapp.com/api/villages/110101
+https://data-wilayah-indonesia.up.railway.app/api/villages/110101
 ```
 
 Response
